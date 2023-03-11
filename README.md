@@ -1,5 +1,5 @@
 # Investigate The Movie Database (TMDB) 
-This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
+This data set contains information about 10,000 movies collected from The Movie Database (TMDB), including user ratings and revenue.
 
 We will answer the folowing questions:
 
