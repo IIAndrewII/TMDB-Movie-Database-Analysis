@@ -5,9 +5,9 @@ Throughout this project, I will go through a series of data cleansing, data Tran
 `To answer the following questions:`
 
 
-- Who is the actor with most movies?
+- Who is the actor in most movies?
 
-- Who is the director with most movies?
+- Who is the director of most movies?
 
 - Who is the actor that makes the most money?
 
